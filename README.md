@@ -1,11 +1,9 @@
-PRACTICA CREATIVA 1:
-DESARROLLO DE UN SCRIPT PARA LA CREACIÓN
-AUTOMÁTICA DEL ESCENARIO DEL BALANCEADOR
-DE LA PRÁCTICA 2
+# Práctica creativa 1: Desarrollo de un script para la creación automática del escenario del balanceador de la práctica 2
 
+**Introducción**
 
-La práctica final del primer parcial consistirá en el desarrollo de un script en Python que automatice
-parcialmente la creación del escenario de pruebas del balanceador de tráfico de la segunda parte de
-la práctica 2 (Figura 1). Opcionalmente se podrá trabajar con otros escenarios virtuales de
-complejidad similar o que utilicen contenedores LXC o docker en vez máquinas virtuales KVM. Si va a
-trabajar sobre un escenario alternativo, consulte previamente a los profesores de la asignatura.
+Este script permite automatizar la creación de un escenario virtual de 2 a 5 computadores conetados
+
+**Requisitos**
+
+* Python instalado
